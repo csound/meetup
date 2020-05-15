@@ -22,7 +22,7 @@ or talk about creating new instruments in Csound.
 
 We are planning on having 3-4 talks, of about 10-15 minutes each - for an hour long meetup.
 
-Please send the proposals to [Edith](mailto:finartcialist at gmail) or find us on Slack if you have any question.
+Please send the proposals to <finartcialist at gmail> or find us on Slack if you have any question.
 
 Thank you for your interest - and thanks to Steven Yi for helping me give shape to this idea.
 
