@@ -2,7 +2,7 @@
 
 ## Important dates
 
-Date of the meetup: May 30th, 2020, 9am PDT (16h UTC).
+~Date of the meetup: May 30th, 2020, 9am PDT (16h UTC).~ POSTPONED TO LATER JUNE
 
 Date for submitting a proposal: May 23th, 2020, noon PDT (19h UTC).
 
