@@ -1,6 +1,6 @@
 # webpage for the Csound meetup
 
-**To be held May 30th 2020, online.**
+**To be held June 2020, online.**
 
 
 
